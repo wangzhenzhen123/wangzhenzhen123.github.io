@@ -9,3 +9,26 @@ h1{
 	font-size: 20px;
 	line-height: 45px;
 }
+img{
+	width: 15%;
+	padding: 13px 18px;
+	float: left;
+}
+ul{
+	margin-right: 25px;
+}
+ul li{
+	float: right;
+	margin-right: 16px;
+	text-align: center;
+	height: 50px;
+	color:#3d3d3d;
+	font-size:16px;
+	list-style: none;
+	margin-top: 43px;
+	line-height: 40px;
+}
+ul li:hover{
+		color: red;
+		border-bottom:2px solid red;
+	}
